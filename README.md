@@ -1,1 +1,2 @@
-# Repository moved to https://github.com/ACCESS-Community-Hub/atmospheric-cookbook
+## Repository moved to:
+## [github.com/ACCESS-Community-Hub/atmospheric-cookbook](https://github.com/ACCESS-Community-Hub/atmospheric-cookbook)
